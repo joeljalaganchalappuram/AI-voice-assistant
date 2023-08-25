@@ -1,0 +1,135 @@
+{
+      "intents":[
+        {
+            "tag":"greeting",
+            "patterns":["hello","hi Jarvis","hi","hey","wake up","jarvis","are you there"
+             ],
+            "responses":["hello sir","hello sir I am up and running","how are you sir","I am always there for you","hello","hi sir","yes sir how can I help you "
+
+            ]
+        },
+        {
+            "tag":"breakup",
+            "patterns":["exit","exit the browser","turn of the browser","exit the window"
+            ],
+            "responses":["ok sir","ok sir closing the currently opened window","exiting the browser", "quiting","ok sir tuning off the window"
+    
+                ]
+        },
+        {
+            "tag":"health",
+            "patterns":["how are you","how your","are you fine","are you good"
+            ],
+            "responses":["I am doing great how about you","I am great, thank you for asking. How about you?","I am perfectly fine","Yes sir how about you"
+        
+                ]
+        },
+        {
+            "tag":"time",
+            "patterns":["what time is it","what is the time","what is the current time","mention the time","time"
+            ],
+            "responses":["time"
+        
+                ]
+        },
+
+        {
+            "tag":"date",
+            "patterns":["date","what is the date","what is the current date"
+            ],
+            "responses":["date"
+        
+                ]
+        },
+        {
+            "tag":"day",
+            "patterns":["day","what day is it","what is the current day"
+            ],
+            "responses":["day"
+        ]
+        },
+        {
+            "tag":"wikipedia",
+            "patterns":["who is","about","what is","describe about","wikipedia","elaborate on"
+            ],
+            "responses":["wikipedia"
+        ]
+        },
+        {
+            "tag":"drive",
+            "patterns":["open my google drive","drive","pin my drive in the browser"
+            ],
+            "responses":["drive"
+        ]
+        },
+        {
+            "tag":"git",
+            "patterns":["open my git account","git","pin my github in the browser"
+            ],
+            "responses":["drive"
+        ]
+        },
+        {
+            "tag":"college",
+            "patterns":["open my college website","moodle","pin my moodle account in the browser"
+            ],
+            "responses":["college"
+        ]
+        },
+        {
+            "tag":"whatsap",
+            "patterns":["Jarvis open my WhatsApp","WhatsApp","open WhatsApp","open WhatsApp web"
+            ],
+            "responses":["whatsap"
+        ]
+        },
+        {
+            "tag":"music",
+            "patterns":["play music","music","play music in spotify"
+            ],
+            "responses":["music"
+        ]
+        },
+        {
+            "tag":"climate",
+            "patterns":["climate outside","what is the climate outside","weather","what is the weather outside"
+            ],
+            "responses":["climate"
+        ]
+        },
+        {
+            "tag":"exit",
+            "patterns":["exit the browser","close the currently opened the window","exit the window","exit"
+            ],
+            "responses":["exit"
+        ]
+        },
+        {
+            "tag":"quit",
+            "patterns":["shutdown","sleep","take a break","bye","shut up","turn to offline mode"
+            ],
+            "responses":["quit"
+        ]
+        },
+        {
+            "tag":"introduce",
+            "patterns":["introduce yourself","who are you","introduce","who made you"
+            ],
+            "responses":["introduce"
+        ]
+        },
+        {
+            "tag":"instagram",
+            "patterns":["instagram","open my instagram","instagram acount"
+            ],
+            "responses":["instagram"
+        ]
+        }
+        
+      
+      
+
+
+    ]
+
+}
