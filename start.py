@@ -27,7 +27,7 @@ while True:
     wake_up = Listen()
     
     if "wake up" in wake_up:
-        os.startfile('C:\\Users\\Basil\\jarvis\\Jarvis.py')
+        os.startfile('C:\\Users\\joel\\jarvis\\Jarvis.py')
     
     else:
         print("listening...")
